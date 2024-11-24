@@ -21,6 +21,10 @@ Hello! I'm a beginner Back-end Developer specializing in Go. I'm passionate abou
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/rezvent)
 
+##
+
+<img src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg">
+
 
 
 
