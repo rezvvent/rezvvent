@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/backend-ai-hero.png" width="100%" alt="Backend infrastructure flowing into an AI neural network" />
+<img src="./assets/engineering-hero-v2.png" width="100%" alt="Precision-engineered black titanium architecture crossed by a cyan signal" />
 
 <br />
 
