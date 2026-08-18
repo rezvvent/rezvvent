@@ -93,19 +93,16 @@
 
 <br />
 
-## What I build
+## Things I've been building
 
-**01 / Backend platforms**<br />
-High-throughput APIs, distributed services and realtime workflows in Go and Python — with clear boundaries, predictable behavior and room to scale.
+**🧠 AI Clipboard**<br />
+A macOS clipboard that remembers more than I do — with useful AI actions and secure sync between devices.
 
-**02 / AI-powered products**<br />
-RAG pipelines, LLM integrations, agents and ML inference turned into reliable product features instead of disconnected demos.
+**🎯 [PickOne](https://github.com/rezvvent/pickone)**<br />
+Create a poll, drop the link into chat, and watch people argue in real time. No accounts, no ceremony.
 
-**03 / Data-intensive systems**<br />
-Event-driven services, queues, caching layers, background processing and storage designed around real access patterns.
-
-**04 / Production foundations**<br />
-Containerized delivery, CI/CD, metrics, logging and tracing that make releases repeatable and systems understandable in production.
+**🥒 Dr. Pickle**<br />
+Tell it what went wrong. It answers with aggressively honest, slightly rude, but genuinely useful advice — in text and voice.
 
 <br />
 
