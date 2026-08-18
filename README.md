@@ -109,12 +109,6 @@ I turn ambiguous product problems into clear architecture and production-ready s
 
 <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake.gif" width="100%" />
 
-<br />
-
-<a href="https://github.com/rezvvent">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rezvvent&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=12D9C4&amp;icon_color=12D9C4&amp;text_color=8B949E&amp;ring_color=12D9C4" alt="Rezvvent GitHub statistics" />
-</a>
-
 </div>
 
 <br />
