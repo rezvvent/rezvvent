@@ -95,16 +95,16 @@
 
 ## What I build
 
-**01 / Backend platforms**
+**01 / Backend platforms**<br />
 High-throughput APIs, distributed services and realtime workflows in Go and Python — with clear boundaries, predictable behavior and room to scale.
 
-**02 / AI-powered products**
+**02 / AI-powered products**<br />
 RAG pipelines, LLM integrations, agents and ML inference turned into reliable product features instead of disconnected demos.
 
-**03 / Data-intensive systems**
+**03 / Data-intensive systems**<br />
 Event-driven services, queues, caching layers, background processing and storage designed around real access patterns.
 
-**04 / Production foundations**
+**04 / Production foundations**<br />
 Containerized delivery, CI/CD, metrics, logging and tracing that make releases repeatable and systems understandable in production.
 
 <br />
