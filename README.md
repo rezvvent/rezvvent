@@ -95,7 +95,7 @@
 
 ## Things I've been building
 
-**🧠 AI Clipboard**<br />
+**🧠 [AI Clipboard](https://github.com/rezvvent/ai-clipboard)**<br />
 A macOS clipboard that remembers more than I do — with useful AI actions and secure sync between devices.
 
 **🎯 [PickOne](https://github.com/rezvvent/pickone)**<br />
