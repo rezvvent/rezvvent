@@ -4,7 +4,7 @@
 
 <br />
 
-# REZVVENT
+# REZVENT
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=12D9C4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;lines=Backend+Engineer+%E2%80%A2+Go+%26+Python;AI%2FML+Engineer+%E2%80%A2+Production+Systems;Fast.+Reliable.+Built+to+scale." alt="Backend Engineer — Go, Python and AI/ML" />
