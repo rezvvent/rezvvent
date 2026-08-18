@@ -93,13 +93,19 @@
 
 <br />
 
-## How I build
+## What I build
 
-| Performance by design | Failure-aware architecture | AI that ships |
-| :--- | :--- | :--- |
-| Profiling, concurrency, caching and efficient data access where they create real leverage. | Timeouts, retries, idempotency, observability and graceful degradation are part of the design. | From experiment and evaluation to guarded APIs, inference, monitoring and iteration. |
+**01 / Backend platforms**
+High-throughput APIs, distributed services and realtime workflows in Go and Python — with clear boundaries, predictable behavior and room to scale.
 
-> **Good engineering is not code that merely works. It is a system the team can understand, operate, and evolve with confidence.**
+**02 / AI-powered products**
+RAG pipelines, LLM integrations, agents and ML inference turned into reliable product features instead of disconnected demos.
+
+**03 / Data-intensive systems**
+Event-driven services, queues, caching layers, background processing and storage designed around real access patterns.
+
+**04 / Production foundations**
+Containerized delivery, CI/CD, metrics, logging and tracing that make releases repeatable and systems understandable in production.
 
 <br />
 
