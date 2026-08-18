@@ -1,30 +1,133 @@
-## Hi there 👋
+<div align="center">
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/bd06e09b-c185-441d-9c18-00dfa5fd46f2)
+<img src="./assets/backend-ai-hero.png" width="100%" alt="Backend infrastructure flowing into an AI neural network" />
 
-## About me 🧑🏻‍💻
+<br />
 
-Hello! I'm a beginner Back-end Developer specializing in Go. I'm passionate about creating efficient and scalable server-side applications. Currently, I am learning the ins and outs of Go and exploring frameworks to enhance my skills. I enjoy tackling new challenges and I'm excited to contribute to open-source projects as I grow in my development journey. Feel free to connect with me or check out my projects!
+# REZVVENT
 
-## My tech-stack 🛠️
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=12D9C4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;lines=Backend+Engineer+%E2%80%A2+Go+%26+Python;AI%2FML+Engineer+%E2%80%A2+Production+Systems;Fast.+Reliable.+Built+to+scale." alt="Backend Engineer — Go, Python and AI/ML" />
+</a>
 
+<p>
+  I engineer backend and AI systems that stay fast under load,<br />
+  predictable when things fail, and maintainable long after launch.
+</p>
 
+<a href="https://t.me/rezvent"><img src="https://img.shields.io/badge/Telegram-@rezvent-0B1220?style=for-the-badge&amp;logo=telegram&amp;logoColor=12D9C4" alt="Telegram @rezvent" /></a>
+<a href="mailto:brxdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-0B1220?style=for-the-badge&amp;logo=gmail&amp;logoColor=12D9C4" alt="Email brxdeveloper@gmail.com" /></a>
+<img src="https://img.shields.io/badge/Discord-@rezvvent-0B1220?style=for-the-badge&amp;logo=discord&amp;logoColor=12D9C4" alt="Discord @rezvvent" />
+<a href="https://github.com/rezvvent"><img src="https://komarev.com/ghpvc/?username=rezvvent&amp;style=for-the-badge&amp;color=0B827A&amp;label=PROFILE+VIEWS" alt="Profile views" /></a>
 
+</div>
 
-<img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="80" height="80"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="80" height="80"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" width="80" height="80"> <img src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" width="80" height="80">
+<br />
 
-##
+## Engineering focus
 
-<img src="https://raw.githubusercontent.com/onemarc/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/javascript.svg" width="80" height="80"> <img src="https://raw.githubusercontent.com/onemarc/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/html.svg" width="80" height="80"> <img src="https://raw.githubusercontent.com/onemarc/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/css.svg" width="80" height="80"> <img src="https://raw.githubusercontent.com/onemarc/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/go-dark.svg" width="80" height="80"> <img src="https://raw.githubusercontent.com/onemarc/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/node.svg" width="80" height="80"> <img src="https://raw.githubusercontent.com/onemarc/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/python-dark.svg" width="80" height="80">
+```text
+01  BACKEND SYSTEMS       APIs, distributed services, async workloads, realtime flows
+02  DATA & RELIABILITY    PostgreSQL, caching, messaging, observability, fault tolerance
+03  APPLIED AI            LLM applications, RAG, ML pipelines, inference and automation
+04  DELIVERY              Containers, CI/CD, infrastructure, monitoring and clean releases
+```
 
-## Contact me 📞
+I turn ambiguous product problems into clear architecture and production-ready software. My default is simple: measure before optimizing, design failure paths early, automate repetitive work, and leave the codebase easier to evolve than I found it.
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/rezvent)
+<br />
 
-##
+## Technology stack
 
-<img src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg">
+<div align="center">
 
+### Core languages
 
+<img src="https://skillicons.dev/icons?i=go,python,bash&amp;theme=dark" alt="Go, Python and Bash" />
 
+### Backend & APIs
 
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,graphql&amp;theme=dark" alt="FastAPI, Django, Flask, Node.js and GraphQL" />
+
+<p>
+  <img src="https://img.shields.io/badge/Gin-0B1220?style=flat-square&amp;logo=go&amp;logoColor=12D9C4" alt="Gin" />
+  <img src="https://img.shields.io/badge/Fiber-0B1220?style=flat-square&amp;logo=go&amp;logoColor=12D9C4" alt="Fiber" />
+  <img src="https://img.shields.io/badge/gRPC-0B1220?style=flat-square&amp;logo=google&amp;logoColor=12D9C4" alt="gRPC" />
+  <img src="https://img.shields.io/badge/REST-0B1220?style=flat-square&amp;logo=fastapi&amp;logoColor=12D9C4" alt="REST" />
+  <img src="https://img.shields.io/badge/WebSockets-0B1220?style=flat-square&amp;logo=socketdotio&amp;logoColor=12D9C4" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Celery-0B1220?style=flat-square&amp;logo=celery&amp;logoColor=12D9C4" alt="Celery" />
+  <img src="https://img.shields.io/badge/Pydantic-0B1220?style=flat-square&amp;logo=pydantic&amp;logoColor=12D9C4" alt="Pydantic" />
+</p>
+
+### Data & messaging
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,kafka,rabbitmq,elasticsearch&amp;theme=dark" alt="PostgreSQL, Redis, MongoDB, Kafka, RabbitMQ and Elasticsearch" />
+
+<p>
+  <img src="https://img.shields.io/badge/SQLAlchemy-0B1220?style=flat-square&amp;logo=sqlalchemy&amp;logoColor=12D9C4" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/GORM-0B1220?style=flat-square&amp;logo=go&amp;logoColor=12D9C4" alt="GORM" />
+  <img src="https://img.shields.io/badge/sqlc-0B1220?style=flat-square&amp;logo=postgresql&amp;logoColor=12D9C4" alt="sqlc" />
+  <img src="https://img.shields.io/badge/Vector_DBs-0B1220?style=flat-square&amp;logo=databricks&amp;logoColor=12D9C4" alt="Vector databases" />
+</p>
+
+### AI / ML engineering
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&amp;theme=dark" alt="PyTorch, TensorFlow, scikit-learn and OpenCV" />
+
+<p>
+  <img src="https://img.shields.io/badge/Hugging_Face-0B1220?style=flat-square&amp;logo=huggingface&amp;logoColor=12D9C4" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-0B1220?style=flat-square&amp;logo=langchain&amp;logoColor=12D9C4" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI_API-0B1220?style=flat-square&amp;logo=openai&amp;logoColor=12D9C4" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/RAG-0B1220?style=flat-square&amp;logo=googlegemini&amp;logoColor=12D9C4" alt="Retrieval-augmented generation" />
+  <img src="https://img.shields.io/badge/MLflow-0B1220?style=flat-square&amp;logo=mlflow&amp;logoColor=12D9C4" alt="MLflow" />
+  <img src="https://img.shields.io/badge/ONNX-0B1220?style=flat-square&amp;logo=onnx&amp;logoColor=12D9C4" alt="ONNX" />
+  <img src="https://img.shields.io/badge/NumPy-0B1220?style=flat-square&amp;logo=numpy&amp;logoColor=12D9C4" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-0B1220?style=flat-square&amp;logo=pandas&amp;logoColor=12D9C4" alt="Pandas" />
+</p>
+
+### Infrastructure & observability
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,githubactions,terraform,prometheus,grafana&amp;theme=dark" alt="Docker, Kubernetes, NGINX, Linux, GitHub Actions, Terraform, Prometheus and Grafana" />
+
+</div>
+
+<br />
+
+## How I build
+
+| Performance by design | Failure-aware architecture | AI that ships |
+| :--- | :--- | :--- |
+| Profiling, concurrency, caching and efficient data access where they create real leverage. | Timeouts, retries, idempotency, observability and graceful degradation are part of the design. | From experiment and evaluation to guarded APIs, inference, monitoring and iteration. |
+
+> **Good engineering is not code that merely works. It is a system the team can understand, operate, and evolve with confidence.**
+
+<br />
+
+## Activity
+
+<div align="center">
+
+<img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake.gif" width="100%" />
+
+<br />
+
+<a href="https://github.com/rezvvent">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rezvvent&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=12D9C4&amp;icon_color=12D9C4&amp;text_color=8B949E&amp;ring_color=12D9C4" alt="Rezvvent GitHub statistics" />
+</a>
+
+</div>
+
+<br />
+
+## Let’s build something that has to work
+
+If you are working on a backend platform, an AI-powered product, a demanding integration, or a system that needs a serious reliability pass — let’s talk.
+
+<div align="center">
+
+<a href="https://t.me/rezvent"><img src="https://img.shields.io/badge/Message_me_on_Telegram-12D9C4?style=for-the-badge&amp;logo=telegram&amp;logoColor=06110F" alt="Message me on Telegram" /></a>
+<a href="mailto:brxdeveloper@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-0B1220?style=for-the-badge&amp;logo=gmail&amp;logoColor=12D9C4" alt="Send an email" /></a>
+
+<sub>Go for the hot path. Python for intelligence. Engineering discipline everywhere.</sub>
+
+</div>
