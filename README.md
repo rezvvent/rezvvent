@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/engineering-hero-v2.png" width="100%" alt="Precision-engineered black titanium architecture crossed by a cyan signal" />
+<img src="./assets/minimal-signal-hero.png" width="100%" alt="Minimal cyan signal line on a near-black background" />
 
 <br />
 
