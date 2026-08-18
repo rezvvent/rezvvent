@@ -128,6 +128,6 @@ If you are working on a backend platform, an AI-powered product, a demanding int
 <a href="https://t.me/rezvent"><img src="https://img.shields.io/badge/Message_me_on_Telegram-12D9C4?style=for-the-badge&amp;logo=telegram&amp;logoColor=06110F" alt="Message me on Telegram" /></a>
 <a href="mailto:brxdeveloper@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-0B1220?style=for-the-badge&amp;logo=gmail&amp;logoColor=12D9C4" alt="Send an email" /></a>
 
-<sub>Go for the hot path. Python for intelligence. Engineering discipline everywhere.</sub>
+
 
 </div>
