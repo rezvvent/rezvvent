@@ -33,7 +33,7 @@
 04  DELIVERY              Containers, CI/CD, infrastructure, monitoring and clean releases
 ```
 
-I turn ambiguous product problems into clear architecture and production-ready software. My default is simple: measure before optimizing, design failure paths early, automate repetitive work, and leave the codebase easier to evolve than I found it.
+
 
 <br />
 
