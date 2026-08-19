@@ -95,6 +95,9 @@
 
 ## Things I've been building
 
+**🕹️ [PocketDeck](https://github.com/rezvvent/PocketDeck)**<br />
+A polished pocket control center for Raspberry Pi, Docker, server health, alerts, and ESP32 messaging — built for the M5StickC Plus2.
+
 **🧠 [AI Clipboard](https://github.com/rezvvent/ai-clipboard)**<br />
 A macOS clipboard that remembers more than I do — with useful AI actions and secure sync between devices.
 
