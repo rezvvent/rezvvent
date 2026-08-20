@@ -121,7 +121,7 @@ Tell it what went wrong. It answers with aggressively honest, slightly rude, but
 
 ## Let’s build something that has to work
 
-If you are working on a backend platform, an AI-powered product, a demanding integration, or a system that needs a serious reliability pass — let’s talk.
+If you are working on a backend platform, an AI-powered product, a demanding integration, or a system that needs a serious reliability pass: let’s talk.
 
 <div align="center">
 
