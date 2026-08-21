@@ -95,6 +95,9 @@
 
 ## Things I've been building
 
+**🛡️ [ScamShield](https://github.com/rezvvent/ScamShield)**<br />
+An evidence-first website risk scanner that turns domain, identity, checkout, reputation, and content signals into an explainable score before you buy.
+
 **🕹️ [PocketDeck](https://github.com/rezvvent/PocketDeck)**<br />
 A polished pocket control center for Raspberry Pi, Docker, server health, alerts, and ESP32 messaging — built for the M5StickC Plus2.
 
