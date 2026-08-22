@@ -110,10 +110,7 @@ A macOS clipboard that remembers more than I do — with useful AI actions and s
 **🎯 [PickOne](https://github.com/rezvvent/pickone)**<br />
 Create a poll, drop the link into chat, and watch people argue in real time. No accounts, no ceremony.
 
-**🥒 Dr. Pickle**<br />
-Tell it what went wrong. It answers with aggressively honest, slightly rude, but genuinely useful advice — in text and voice.
 
-<br />
 
 ## Activity
 
