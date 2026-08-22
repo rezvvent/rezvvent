@@ -95,6 +95,9 @@
 
 ## Things I've been building
 
+**🔗 [ShortLab](https://github.com/rezvvent/url-shortener-analytics)**<br />
+An event-driven URL shortener with low-latency redirects, Kafka-powered click analytics, and a real-time WebSocket dashboard.
+
 **🛡️ [ScamShield](https://github.com/rezvvent/ScamShield)**<br />
 An evidence-first website risk scanner that turns domain, identity, checkout, reputation, and content signals into an explainable score before you buy.
 
