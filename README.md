@@ -95,6 +95,9 @@
 
 ## Things I've been building
 
+**⚔️ [CodeArena](https://github.com/rezvvent/codearena)**<br />
+A production-minded competitive programming platform with an isolated judge, live verdicts, persistent sessions, and rich problem authoring.
+
 **🔗 [ShortLab](https://github.com/rezvvent/url-shortener-analytics)**<br />
 An event-driven URL shortener with low-latency redirects, Kafka-powered click analytics, and a real-time WebSocket dashboard.
 
