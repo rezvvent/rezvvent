@@ -95,6 +95,9 @@
 
 ## Things I've been building
 
+**🦿 [StrideLab](https://github.com/rezvvent/StrideLab)**<br />
+An interactive neuroevolution lab where a randomly initialized neural network learns to walk in real 2D physics — with parallel browser training, validated distance champions, and no scripted gait.
+
 **⚔️ [CodeArena](https://github.com/rezvvent/codearena)**<br />
 A production-minded competitive programming platform with an isolated judge, live verdicts, persistent sessions, and rich problem authoring.
 
