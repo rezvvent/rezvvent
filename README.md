@@ -95,6 +95,9 @@
 
 ## Things I've been building
 
+**🔬 [TinyModel Lab](https://github.com/rezvvent/tinymodel-lab)**<br />
+A production-grade ML model compression, optimization, and benchmarking platform — featuring architectural profiling, verified ONNX export, fair comparison metrics, and zero-synthetic latency analysis.
+
 **🦿 [StrideLab](https://github.com/rezvvent/StrideLab)**<br />
 An interactive neuroevolution lab where a randomly initialized neural network learns to walk in real 2D physics — with parallel browser training, validated distance champions, and no scripted gait.
 
