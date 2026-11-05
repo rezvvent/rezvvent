@@ -133,8 +133,8 @@ A wider technology map for experimentation and future projects.
 
 <a href="https://github.com/rezvvent?tab=overview">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake.svg" width="100%" alt="Animated snake following my GitHub contribution history" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake-dark.svg?theme=ml-lime" />
+    <img src="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake.svg?theme=ml-lime" width="100%" alt="Animated snake following my GitHub contribution history" />
   </picture>
 </a>
 
