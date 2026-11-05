@@ -1,15 +1,15 @@
 [
   {
-    "label": "Python",
+    "label": "python",
     "file": "python.svg",
     "width": 109,
     "source": "simple-icons",
     "original": "python.svg"
   },
   {
-    "label": "NumPy",
+    "label": "numpy",
     "file": "numpy.svg",
-    "width": 111,
+    "width": 109,
     "source": "simple-icons",
     "original": "numpy.svg"
   },
@@ -21,79 +21,79 @@
     "original": "pandas.svg"
   },
   {
-    "label": "SciPy",
+    "label": "scipy",
     "file": "scipy.svg",
-    "width": 100,
+    "width": 99,
     "source": "simple-icons",
     "original": "scipy.svg"
   },
   {
-    "label": "Polars",
+    "label": "polars",
     "file": "polars.svg",
     "width": 105,
     "source": "simple-icons",
     "original": "polars.svg"
   },
   {
-    "label": "PyArrow",
+    "label": "pyarrow",
     "file": "pyarrow.svg",
-    "width": 121,
+    "width": 119,
     "source": "simple-icons",
     "original": "apachearrow.svg"
   },
   {
-    "label": "Jupyter",
+    "label": "jupyter",
     "file": "jupyter.svg",
-    "width": 114,
+    "width": 109,
     "source": "simple-icons",
     "original": "jupyter.svg"
   },
   {
-    "label": "Matplotlib",
+    "label": "matplotlib",
     "file": "matplotlib.svg",
     "width": 128,
     "source": "logos",
     "original": "matplotlib-icon"
   },
   {
-    "label": "Seaborn",
+    "label": "seaborn",
     "file": "seaborn.svg",
-    "width": 119,
+    "width": 118,
     "source": "logos",
     "original": "seaborn-icon"
   },
   {
-    "label": "DuckDB",
+    "label": "duckdb",
     "file": "duckdb.svg",
-    "width": 116,
+    "width": 112,
     "source": "simple-icons",
     "original": "duckdb.svg"
   },
   {
-    "label": "PyTorch",
+    "label": "pytorch",
     "file": "pytorch.svg",
-    "width": 119,
+    "width": 114,
     "source": "simple-icons",
     "original": "pytorch.svg"
   },
   {
-    "label": "TensorFlow",
+    "label": "tensorflow",
     "file": "tensorflow.svg",
-    "width": 141,
+    "width": 133,
     "source": "simple-icons",
     "original": "tensorflow.svg"
   },
   {
-    "label": "Keras",
+    "label": "keras",
     "file": "keras.svg",
-    "width": 102,
+    "width": 101,
     "source": "simple-icons",
     "original": "keras.svg"
   },
   {
-    "label": "JAX",
+    "label": "jax",
     "file": "jax.svg",
-    "width": 91,
+    "width": 83,
     "source": "logos",
     "original": "jax"
   },
@@ -105,93 +105,93 @@
     "original": "scikitlearn.svg"
   },
   {
-    "label": "XGBoost",
+    "label": "xgboost",
     "file": "xgboost.svg",
-    "width": 120,
+    "width": 116,
     "source": "lucide",
     "original": "trees.svg"
   },
   {
-    "label": "LightGBM",
+    "label": "lightgbm",
     "file": "lightgbm.svg",
-    "width": 127,
+    "width": 120,
     "source": "lucide",
     "original": "tree-deciduous.svg"
   },
   {
-    "label": "CatBoost",
+    "label": "catboost",
     "file": "catboost.svg",
-    "width": 123,
+    "width": 121,
     "source": "lucide",
     "original": "tree-pine.svg"
   },
   {
-    "label": "Optuna",
+    "label": "optuna",
     "file": "optuna.svg",
-    "width": 112,
+    "width": 109,
     "source": "simple-icons",
     "original": "optuna.svg"
   },
   {
-    "label": "Hugging Face",
+    "label": "hugging face",
     "file": "hugging-face.svg",
-    "width": 153,
+    "width": 147,
     "source": "simple-icons",
     "original": "huggingface.svg"
   },
   {
-    "label": "Transformers",
+    "label": "transformers",
     "file": "transformers.svg",
-    "width": 152,
+    "width": 148,
     "source": "simple-icons",
     "original": "huggingface.svg"
   },
   {
-    "label": "Datasets",
+    "label": "datasets",
     "file": "datasets.svg",
-    "width": 122,
+    "width": 120,
     "source": "simple-icons",
     "original": "huggingface.svg"
   },
   {
-    "label": "Tokenizers",
+    "label": "tokenizers",
     "file": "tokenizers.svg",
-    "width": 136,
+    "width": 132,
     "source": "simple-icons",
     "original": "huggingface.svg"
   },
   {
-    "label": "Sentence Transformers",
+    "label": "sentence transformers",
     "file": "sentence-transformers.svg",
-    "width": 216,
+    "width": 211,
     "source": "simple-icons",
     "original": "huggingface.svg"
   },
   {
-    "label": "Accelerate",
+    "label": "accelerate",
     "file": "accelerate.svg",
-    "width": 135,
+    "width": 133,
     "source": "simple-icons",
     "original": "huggingface.svg"
   },
   {
-    "label": "PEFT",
+    "label": "peft",
     "file": "peft.svg",
-    "width": 98,
+    "width": 89,
     "source": "simple-icons",
     "original": "huggingface.svg"
   },
   {
-    "label": "TRL",
+    "label": "trl",
     "file": "trl.svg",
-    "width": 90,
+    "width": 78,
     "source": "simple-icons",
     "original": "huggingface.svg"
   },
   {
-    "label": "Diffusers",
+    "label": "diffusers",
     "file": "diffusers.svg",
-    "width": 122,
+    "width": 120,
     "source": "simple-icons",
     "original": "huggingface.svg"
   },
@@ -203,37 +203,37 @@
     "original": "huggingface.svg"
   },
   {
-    "label": "LoRA",
+    "label": "lora",
     "file": "lora.svg",
-    "width": 99,
+    "width": 89,
     "source": "lucide",
     "original": "sliders-horizontal.svg"
   },
   {
-    "label": "QLoRA",
+    "label": "qlora",
     "file": "qlora.svg",
-    "width": 109,
+    "width": 97,
     "source": "lucide",
     "original": "sliders-vertical.svg"
   },
   {
-    "label": "SFT",
+    "label": "sft",
     "file": "sft.svg",
-    "width": 90,
+    "width": 80,
     "source": "lucide",
     "original": "graduation-cap.svg"
   },
   {
-    "label": "DPO",
+    "label": "dpo",
     "file": "dpo.svg",
-    "width": 93,
+    "width": 89,
     "source": "lucide",
     "original": "git-compare-arrows.svg"
   },
   {
-    "label": "Distillation",
+    "label": "distillation",
     "file": "distillation.svg",
-    "width": 131,
+    "width": 130,
     "source": "lucide",
     "original": "funnel.svg"
   },
@@ -245,100 +245,100 @@
     "original": "binary.svg"
   },
   {
-    "label": "DeepSpeed",
+    "label": "deepspeed",
     "file": "deepspeed.svg",
-    "width": 140,
+    "width": 137,
     "source": "lucide",
     "original": "gauge.svg"
   },
   {
-    "label": "FSDP / DDP",
+    "label": "fsdp / ddp",
     "file": "fsdp-ddp.svg",
-    "width": 138,
+    "width": 127,
     "source": "lucide",
     "original": "network.svg"
   },
   {
-    "label": "Mixed precision",
+    "label": "mixed precision",
     "file": "mixed-precision.svg",
     "width": 166,
     "source": "lucide",
     "original": "cpu.svg"
   },
   {
-    "label": "Ollama",
+    "label": "ollama",
     "file": "ollama.svg",
-    "width": 110,
+    "width": 108,
     "source": "lobe-icons",
     "original": "ollama.svg"
   },
   {
-    "label": "llama.cpp",
+    "label": "llamacpp",
     "file": "llama-cpp.svg",
-    "width": 127,
+    "width": 124,
     "source": "llamacpp",
     "original": "llama.svg"
   },
   {
-    "label": "vLLM",
+    "label": "vllm",
     "file": "vllm.svg",
-    "width": 99,
+    "width": 91,
     "source": "lobe-icons",
     "original": "vllm.svg"
   },
   {
-    "label": "ONNX",
+    "label": "onnx",
     "file": "onnx.svg",
-    "width": 104,
+    "width": 96,
     "source": "simple-icons",
     "original": "onnx.svg"
   },
   {
-    "label": "ONNX Runtime",
+    "label": "onnx runtime",
     "file": "onnx-runtime.svg",
-    "width": 159,
+    "width": 148,
     "source": "simple-icons",
     "original": "onnx.svg"
   },
   {
-    "label": "TensorRT-LLM",
+    "label": "tensorrt-llm",
     "file": "tensorrt-llm.svg",
-    "width": 161,
+    "width": 140,
     "source": "simple-icons",
     "original": "nvidia.svg"
   },
   {
-    "label": "Triton Inference Server",
+    "label": "triton inference server",
     "file": "triton-inference-server.svg",
-    "width": 212,
+    "width": 206,
     "source": "simple-icons",
     "original": "nvidia.svg"
   },
   {
-    "label": "BentoML",
+    "label": "bentoml",
     "file": "bentoml.svg",
-    "width": 122,
+    "width": 117,
     "source": "simple-icons",
     "original": "bentoml.svg"
   },
   {
-    "label": "GGUF",
+    "label": "gguf",
     "file": "gguf.svg",
-    "width": 102,
+    "width": 93,
     "source": "lucide",
     "original": "file-box.svg"
   },
   {
-    "label": "CUDA",
+    "label": "cuda",
     "file": "cuda.svg",
-    "width": 103,
+    "width": 96,
     "source": "simple-icons",
     "original": "nvidia.svg"
   },
   {
-    "label": "Qdrant",
+    "label": "qdrant",
     "file": "qdrant.svg",
-    "width": 109,
+    "width": 107,
     "source": "simple-icons",
     "original": "qdrant.svg"
   },
@@ -350,191 +350,191 @@
     "original": "postgresql.svg"
   },
   {
-    "label": "FAISS",
+    "label": "faiss",
     "file": "faiss.svg",
-    "width": 103,
+    "width": 95,
     "source": "lucide",
     "original": "search.svg"
   },
   {
-    "label": "Milvus",
+    "label": "milvus",
     "file": "milvus.svg",
     "width": 106,
     "source": "simple-icons",
     "original": "milvus.svg"
   },
   {
-    "label": "Weaviate",
+    "label": "weaviate",
     "file": "weaviate.svg",
-    "width": 127,
+    "width": 124,
     "source": "logos",
     "original": "weaviate-icon"
   },
   {
-    "label": "Chroma",
+    "label": "chroma",
     "file": "chroma.svg",
-    "width": 116,
+    "width": 114,
     "source": "logos",
     "original": "chroma"
   },
   {
-    "label": "Pinecone",
+    "label": "pinecone",
     "file": "pinecone.svg",
     "width": 124,
     "source": "logos",
     "original": "pinecone-icon"
   },
   {
-    "label": "Elasticsearch",
+    "label": "elasticsearch",
     "file": "elasticsearch.svg",
-    "width": 152,
+    "width": 151,
     "source": "simple-icons",
     "original": "elasticsearch.svg"
   },
   {
-    "label": "RAG",
+    "label": "rag",
     "file": "rag.svg",
-    "width": 93,
+    "width": 86,
     "source": "lucide",
     "original": "workflow.svg"
   },
   {
-    "label": "Hybrid search",
+    "label": "hybrid search",
     "file": "hybrid-search.svg",
-    "width": 154,
+    "width": 152,
     "source": "lucide",
     "original": "combine.svg"
   },
   {
-    "label": "Reranking",
+    "label": "reranking",
     "file": "reranking.svg",
-    "width": 130,
+    "width": 127,
     "source": "lucide",
     "original": "list-filter.svg"
   },
   {
-    "label": "LangChain",
+    "label": "langchain",
     "file": "langchain.svg",
-    "width": 134,
+    "width": 127,
     "source": "simple-icons",
     "original": "langchain.svg"
   },
   {
-    "label": "LangGraph",
+    "label": "langgraph",
     "file": "langgraph.svg",
-    "width": 136,
+    "width": 130,
     "source": "simple-icons",
     "original": "langgraph.svg"
   },
   {
-    "label": "LlamaIndex",
+    "label": "llamaindex",
     "file": "llamaindex.svg",
-    "width": 139,
+    "width": 135,
     "source": "lobe-icons",
     "original": "llamaindex.svg"
   },
   {
-    "label": "Haystack",
+    "label": "haystack",
     "file": "haystack.svg",
-    "width": 125,
+    "width": 123,
     "source": "simple-icons",
     "original": "haystack.svg"
   },
   {
-    "label": "DSPy",
+    "label": "dspy",
     "file": "dspy.svg",
-    "width": 99,
+    "width": 96,
     "source": "lucide",
     "original": "workflow.svg"
   },
   {
-    "label": "MCP",
+    "label": "mcp",
     "file": "mcp.svg",
-    "width": 95,
+    "width": 93,
     "source": "lobe-icons",
     "original": "mcp.svg"
   },
   {
-    "label": "PydanticAI",
+    "label": "pydanticai",
     "file": "pydanticai.svg",
-    "width": 134,
+    "width": 131,
     "source": "lobe-icons",
     "original": "pydanticai.svg"
   },
   {
-    "label": "Instructor",
+    "label": "instructor",
     "file": "instructor.svg",
     "width": 127,
     "source": "lucide",
     "original": "braces.svg"
   },
   {
-    "label": "Tool calling",
+    "label": "tool calling",
     "file": "tool-calling.svg",
-    "width": 137,
+    "width": 133,
     "source": "lucide",
     "original": "wrench.svg"
   },
   {
-    "label": "Structured outputs",
+    "label": "structured outputs",
     "file": "structured-outputs.svg",
-    "width": 184,
+    "width": 183,
     "source": "lucide",
     "original": "braces.svg"
   },
   {
-    "label": "OpenAI",
+    "label": "openai",
     "file": "openai.svg",
-    "width": 113,
+    "width": 108,
     "source": "lobe-icons",
     "original": "openai.svg"
   },
   {
-    "label": "Anthropic",
+    "label": "anthropic",
     "file": "anthropic.svg",
-    "width": 127,
+    "width": 126,
     "source": "lobe-icons",
     "original": "anthropic.svg"
   },
   {
-    "label": "Gemini",
+    "label": "gemini",
     "file": "gemini.svg",
-    "width": 109,
+    "width": 108,
     "source": "lobe-icons",
     "original": "gemini.svg"
   },
   {
-    "label": "Llama",
+    "label": "llama",
     "file": "llama.svg",
-    "width": 104,
+    "width": 99,
     "source": "simple-icons",
     "original": "meta.svg"
   },
   {
-    "label": "Mistral",
+    "label": "mistral",
     "file": "mistral.svg",
-    "width": 108,
+    "width": 109,
     "source": "lobe-icons",
     "original": "mistral.svg"
   },
   {
-    "label": "Qwen",
+    "label": "qwen",
     "file": "qwen.svg",
-    "width": 103,
+    "width": 100,
     "source": "lobe-icons",
     "original": "qwen.svg"
   },
   {
-    "label": "DeepSeek",
+    "label": "deepseek",
     "file": "deepseek.svg",
-    "width": 131,
+    "width": 128,
     "source": "lobe-icons",
     "original": "deepseek.svg"
   },
   {
-    "label": "OpenCV",
+    "label": "opencv",
     "file": "opencv.svg",
-    "width": 119,
+    "width": 112,
     "source": "simple-icons",
     "original": "opencv.svg"
   },
@@ -546,471 +546,471 @@
     "original": "pytorch.svg"
   },
   {
-    "label": "Albumentations",
+    "label": "albumentations",
     "file": "albumentations.svg",
-    "width": 166,
+    "width": 164,
     "source": "lucide",
     "original": "scan.svg"
   },
   {
-    "label": "YOLO",
+    "label": "yolo",
     "file": "yolo.svg",
-    "width": 102,
+    "width": 91,
     "source": "simple-icons",
     "original": "ultralytics.svg"
   },
   {
-    "label": "OCR",
+    "label": "ocr",
     "file": "ocr.svg",
-    "width": 93,
+    "width": 86,
     "source": "lucide",
     "original": "scan-text.svg"
   },
   {
-    "label": "Image embeddings",
+    "label": "image embeddings",
     "file": "image-embeddings.svg",
     "width": 187,
     "source": "lucide",
     "original": "image.svg"
   },
   {
-    "label": "MLflow",
+    "label": "mlflow",
     "file": "mlflow.svg",
-    "width": 111,
+    "width": 107,
     "source": "simple-icons",
     "original": "mlflow.svg"
   },
   {
-    "label": "Weights & Biases",
+    "label": "weights & biases",
     "file": "weights-biases.svg",
-    "width": 178,
+    "width": 174,
     "source": "simple-icons",
     "original": "weightsandbiases.svg"
   },
   {
-    "label": "DVC",
+    "label": "dvc",
     "file": "dvc.svg",
-    "width": 94,
+    "width": 88,
     "source": "simple-icons",
     "original": "dvc.svg"
   },
   {
-    "label": "Ray",
+    "label": "ray",
     "file": "ray.svg",
-    "width": 89,
+    "width": 85,
     "source": "simple-icons",
     "original": "ray.svg"
   },
   {
-    "label": "Airflow",
+    "label": "airflow",
     "file": "airflow.svg",
-    "width": 110,
+    "width": 108,
     "source": "simple-icons",
     "original": "apacheairflow.svg"
   },
   {
-    "label": "Prefect",
+    "label": "prefect",
     "file": "prefect.svg",
-    "width": 111,
+    "width": 110,
     "source": "simple-icons",
     "original": "prefect.svg"
   },
   {
-    "label": "Kubeflow",
+    "label": "kubeflow",
     "file": "kubeflow.svg",
-    "width": 125,
+    "width": 123,
     "source": "devicon",
     "original": "kubeflow"
   },
   {
-    "label": "Ragas",
+    "label": "ragas",
     "file": "ragas.svg",
-    "width": 105,
+    "width": 101,
     "source": "lucide",
     "original": "clipboard-check.svg"
   },
   {
-    "label": "DeepEval",
+    "label": "deepeval",
     "file": "deepeval.svg",
-    "width": 126,
+    "width": 124,
     "source": "lucide",
     "original": "clipboard-check.svg"
   },
   {
-    "label": "Evidently",
+    "label": "evidently",
     "file": "evidently.svg",
     "width": 123,
     "source": "lucide",
     "original": "chart-no-axes-combined.svg"
   },
   {
-    "label": "Langfuse",
+    "label": "langfuse",
     "file": "langfuse.svg",
-    "width": 124,
+    "width": 120,
     "source": "lobe-icons",
     "original": "langfuse.svg"
   },
   {
-    "label": "Phoenix",
+    "label": "phoenix",
     "file": "phoenix.svg",
     "width": 116,
     "source": "lucide",
     "original": "activity.svg"
   },
   {
-    "label": "OpenTelemetry",
+    "label": "opentelemetry",
     "file": "opentelemetry.svg",
-    "width": 165,
+    "width": 158,
     "source": "simple-icons",
     "original": "opentelemetry.svg"
   },
   {
-    "label": "JavaScript",
+    "label": "javascript",
     "file": "javascript.svg",
-    "width": 133,
+    "width": 128,
     "source": "simple-icons",
     "original": "javascript.svg"
   },
   {
-    "label": "TypeScript",
+    "label": "typescript",
     "file": "typescript.svg",
-    "width": 135,
+    "width": 129,
     "source": "simple-icons",
     "original": "typescript.svg"
   },
   {
-    "label": "HTML5",
+    "label": "html5",
     "file": "html5.svg",
-    "width": 111,
+    "width": 101,
     "source": "simple-icons",
     "original": "html5.svg"
   },
   {
-    "label": "CSS3",
+    "label": "css3",
     "file": "css3.svg",
-    "width": 99,
+    "width": 95,
     "source": "simple-icons",
     "original": "css.svg"
   },
   {
-    "label": "React",
+    "label": "react",
     "file": "react.svg",
-    "width": 102,
+    "width": 98,
     "source": "simple-icons",
     "original": "react.svg"
   },
   {
-    "label": "Next.js",
+    "label": "nextjs",
     "file": "next-js.svg",
-    "width": 108,
+    "width": 103,
     "source": "simple-icons",
     "original": "nextdotjs.svg"
   },
   {
-    "label": "Vite",
+    "label": "vite",
     "file": "vite.svg",
-    "width": 90,
+    "width": 88,
     "source": "simple-icons",
     "original": "vite.svg"
   },
   {
-    "label": "Tailwind CSS",
+    "label": "tailwind css",
     "file": "tailwind-css.svg",
-    "width": 148,
+    "width": 140,
     "source": "simple-icons",
     "original": "tailwindcss.svg"
   },
   {
-    "label": "Sass",
+    "label": "sass",
     "file": "sass.svg",
-    "width": 96,
+    "width": 95,
     "source": "simple-icons",
     "original": "sass.svg"
   },
   {
-    "label": "Framer Motion",
+    "label": "framer motion",
     "file": "framer-motion.svg",
-    "width": 159,
+    "width": 154,
     "source": "simple-icons",
     "original": "framer.svg"
   },
   {
-    "label": "Figma",
+    "label": "figma",
     "file": "figma.svg",
-    "width": 104,
+    "width": 100,
     "source": "simple-icons",
     "original": "figma.svg"
   },
   {
-    "label": "Redux Toolkit",
+    "label": "redux toolkit",
     "file": "redux-toolkit.svg",
-    "width": 151,
+    "width": 143,
     "source": "simple-icons",
     "original": "redux.svg"
   },
   {
-    "label": "Zustand",
+    "label": "zustand",
     "file": "zustand.svg",
-    "width": 117,
+    "width": 116,
     "source": "devicon",
     "original": "zustand"
   },
   {
-    "label": "TanStack Query",
+    "label": "tanstack query",
     "file": "tanstack-query.svg",
-    "width": 168,
+    "width": 160,
     "source": "simple-icons",
     "original": "reactquery.svg"
   },
   {
-    "label": "React Hook Form",
+    "label": "react hook form",
     "file": "react-hook-form.svg",
-    "width": 174,
+    "width": 165,
     "source": "simple-icons",
     "original": "reacthookform.svg"
   },
   {
-    "label": "Zod",
+    "label": "zod",
     "file": "zod.svg",
-    "width": 89,
+    "width": 88,
     "source": "simple-icons",
     "original": "zod.svg"
   },
   {
-    "label": "Storybook",
+    "label": "storybook",
     "file": "storybook.svg",
-    "width": 130,
+    "width": 129,
     "source": "simple-icons",
     "original": "storybook.svg"
   },
   {
-    "label": "Vitest",
+    "label": "vitest",
     "file": "vitest.svg",
-    "width": 102,
+    "width": 99,
     "source": "simple-icons",
     "original": "vitest.svg"
   },
   {
-    "label": "Jest",
+    "label": "jest",
     "file": "jest.svg",
-    "width": 92,
+    "width": 88,
     "source": "simple-icons",
     "original": "jest.svg"
   },
   {
-    "label": "Testing Library",
+    "label": "testing library",
     "file": "testing-library.svg",
-    "width": 161,
+    "width": 152,
     "source": "simple-icons",
     "original": "testinglibrary.svg"
   },
   {
-    "label": "Playwright",
+    "label": "playwright",
     "file": "playwright.svg",
     "width": 133,
     "source": "logos",
     "original": "playwright"
   },
   {
-    "label": "ESLint",
+    "label": "eslint",
     "file": "eslint.svg",
-    "width": 105,
+    "width": 99,
     "source": "simple-icons",
     "original": "eslint.svg"
   },
   {
-    "label": "Prettier",
+    "label": "prettier",
     "file": "prettier.svg",
     "width": 112,
     "source": "simple-icons",
     "original": "prettier.svg"
   },
   {
-    "label": "Go",
+    "label": "go",
     "file": "go.svg",
-    "width": 82,
+    "width": 81,
     "source": "simple-icons",
     "original": "go.svg"
   },
   {
-    "label": "Python",
+    "label": "python",
     "file": "python.svg",
     "width": 109,
     "source": "simple-icons",
     "original": "python.svg"
   },
   {
-    "label": "Django",
+    "label": "django",
     "file": "django.svg",
-    "width": 110,
+    "width": 108,
     "source": "simple-icons",
     "original": "django.svg"
   },
   {
-    "label": "Django REST",
+    "label": "django rest",
     "file": "django-rest.svg",
-    "width": 147,
+    "width": 136,
     "source": "simple-icons",
     "original": "django.svg"
   },
   {
-    "label": "FastAPI",
+    "label": "fastapi",
     "file": "fastapi.svg",
-    "width": 114,
+    "width": 108,
     "source": "simple-icons",
     "original": "fastapi.svg"
   },
   {
-    "label": "Flask",
+    "label": "flask",
     "file": "flask.svg",
-    "width": 99,
+    "width": 95,
     "source": "simple-icons",
     "original": "flask.svg"
   },
   {
-    "label": "Gin",
+    "label": "gin",
     "file": "gin.svg",
-    "width": 86,
+    "width": 84,
     "source": "simple-icons",
     "original": "gin.svg"
   },
   {
-    "label": "Fiber",
+    "label": "fiber",
     "file": "fiber.svg",
-    "width": 97,
+    "width": 93,
     "source": "lucide",
     "original": "route.svg"
   },
   {
-    "label": "Node.js",
+    "label": "nodejs",
     "file": "node-js.svg",
-    "width": 112,
+    "width": 107,
     "source": "simple-icons",
     "original": "nodedotjs.svg"
   },
   {
-    "label": "Express",
+    "label": "express",
     "file": "express.svg",
     "width": 116,
     "source": "simple-icons",
     "original": "express.svg"
   },
   {
-    "label": "Pydantic",
+    "label": "pydantic",
     "file": "pydantic.svg",
     "width": 120,
     "source": "simple-icons",
     "original": "pydantic.svg"
   },
   {
-    "label": "SQLAlchemy",
+    "label": "sqlalchemy",
     "file": "sqlalchemy.svg",
-    "width": 148,
+    "width": 138,
     "source": "simple-icons",
     "original": "sqlalchemy.svg"
   },
   {
-    "label": "gRPC",
+    "label": "grpc",
     "file": "grpc.svg",
-    "width": 100,
+    "width": 94,
     "source": "lucide",
     "original": "network.svg"
   },
   {
-    "label": "GraphQL",
+    "label": "graphql",
     "file": "graphql.svg",
-    "width": 122,
+    "width": 114,
     "source": "simple-icons",
     "original": "graphql.svg"
   },
   {
-    "label": "REST APIs",
+    "label": "rest apis",
     "file": "rest-apis.svg",
-    "width": 131,
+    "width": 119,
     "source": "lucide",
     "original": "braces.svg"
   },
   {
-    "label": "WebSockets",
+    "label": "websockets",
     "file": "websockets.svg",
-    "width": 147,
+    "width": 143,
     "source": "simple-icons",
     "original": "socketdotio.svg"
   },
   {
-    "label": "SQL",
+    "label": "sql",
     "file": "sql.svg",
-    "width": 91,
+    "width": 83,
     "source": "lucide",
     "original": "database.svg"
   },
   {
-    "label": "PostgreSQL",
+    "label": "postgresql",
     "file": "postgresql.svg",
-    "width": 141,
+    "width": 133,
     "source": "simple-icons",
     "original": "postgresql.svg"
   },
   {
-    "label": "MySQL",
+    "label": "mysql",
     "file": "mysql.svg",
-    "width": 111,
+    "width": 103,
     "source": "simple-icons",
     "original": "mysql.svg"
   },
   {
-    "label": "SQLite",
+    "label": "sqlite",
     "file": "sqlite.svg",
-    "width": 107,
+    "width": 99,
     "source": "simple-icons",
     "original": "sqlite.svg"
   },
   {
-    "label": "Redis",
+    "label": "redis",
     "file": "redis.svg",
-    "width": 100,
+    "width": 97,
     "source": "simple-icons",
     "original": "redis.svg"
   },
   {
-    "label": "MongoDB",
+    "label": "mongodb",
     "file": "mongodb.svg",
-    "width": 128,
+    "width": 125,
     "source": "simple-icons",
     "original": "mongodb.svg"
   },
   {
-    "label": "Kafka",
+    "label": "kafka",
     "file": "kafka.svg",
-    "width": 101,
+    "width": 100,
     "source": "simple-icons",
     "original": "apachekafka.svg"
   },
   {
-    "label": "RabbitMQ",
+    "label": "rabbitmq",
     "file": "rabbitmq.svg",
-    "width": 128,
+    "width": 122,
     "source": "simple-icons",
     "original": "rabbitmq.svg"
   },
   {
-    "label": "Celery",
+    "label": "celery",
     "file": "celery.svg",
-    "width": 106,
+    "width": 105,
     "source": "simple-icons",
     "original": "celery.svg"
   },
   {
-    "label": "Elasticsearch",
+    "label": "elasticsearch",
     "file": "elasticsearch.svg",
-    "width": 152,
+    "width": 151,
     "source": "simple-icons",
     "original": "elasticsearch.svg"
   },
   {
-    "label": "GORM",
+    "label": "gorm",
     "file": "gorm.svg",
-    "width": 106,
+    "width": 98,
     "source": "simple-icons",
     "original": "go.svg"
   },
@@ -1022,79 +1022,79 @@
     "original": "go.svg"
   },
   {
-    "label": "Docker",
+    "label": "docker",
     "file": "docker.svg",
-    "width": 111,
+    "width": 109,
     "source": "simple-icons",
     "original": "docker.svg"
   },
   {
-    "label": "Compose",
+    "label": "compose",
     "file": "compose.svg",
-    "width": 126,
+    "width": 124,
     "source": "simple-icons",
     "original": "docker.svg"
   },
   {
-    "label": "Kubernetes",
+    "label": "kubernetes",
     "file": "kubernetes.svg",
-    "width": 139,
+    "width": 138,
     "source": "simple-icons",
     "original": "kubernetes.svg"
   },
   {
-    "label": "Terraform",
+    "label": "terraform",
     "file": "terraform.svg",
-    "width": 130,
+    "width": 125,
     "source": "simple-icons",
     "original": "terraform.svg"
   },
   {
-    "label": "Linux",
+    "label": "linux",
     "file": "linux.svg",
-    "width": 99,
+    "width": 95,
     "source": "simple-icons",
     "original": "linux.svg"
   },
   {
-    "label": "Bash",
+    "label": "bash",
     "file": "bash.svg",
-    "width": 97,
+    "width": 96,
     "source": "simple-icons",
     "original": "gnubash.svg"
   },
   {
-    "label": "Git",
+    "label": "git",
     "file": "git.svg",
-    "width": 82,
+    "width": 80,
     "source": "simple-icons",
     "original": "git.svg"
   },
   {
-    "label": "GitHub Actions",
+    "label": "github actions",
     "file": "github-actions.svg",
-    "width": 159,
+    "width": 154,
     "source": "simple-icons",
     "original": "githubactions.svg"
   },
   {
-    "label": "NGINX",
+    "label": "nginx",
     "file": "nginx.svg",
-    "width": 107,
+    "width": 100,
     "source": "simple-icons",
     "original": "nginx.svg"
   },
   {
-    "label": "Prometheus",
+    "label": "prometheus",
     "file": "prometheus.svg",
-    "width": 143,
+    "width": 142,
     "source": "simple-icons",
     "original": "prometheus.svg"
   },
   {
-    "label": "Grafana",
+    "label": "grafana",
     "file": "grafana.svg",
-    "width": 116,
+    "width": 114,
     "source": "simple-icons",
     "original": "grafana.svg"
   },
@@ -1106,9 +1106,9 @@
     "original": "pytest.svg"
   },
   {
-    "label": "Ruff",
+    "label": "ruff",
     "file": "ruff.svg",
-    "width": 89,
+    "width": 86,
     "source": "simple-icons",
     "original": "ruff.svg"
   },
