@@ -10,10 +10,9 @@ ML ML ML ML!!!!!!
 <p>
   <a href="https://t.me/rezvent"><img src="./assets/contact-telegram.svg" width="144" height="44" alt="Message on Telegram" /></a>
   &nbsp;&nbsp; <a href="mailto:brxdeveloper@gmail.com">Email</a>
-  &nbsp;&nbsp; Discord:&nbsp;<strong>@rezvvent</strong>
 </p>
 
-[ML & AI](#ml--ai) &nbsp; · &nbsp; [Frontend](#frontend) &nbsp; · &nbsp; [Backend](#backend) &nbsp; · &nbsp; [Infrastructure](#infrastructure) &nbsp; · &nbsp; [Projects](#selected-projects)
+[ML & AI](#ml--ai) &nbsp; · &nbsp; [Frontend](#frontend) &nbsp; · &nbsp; [Backend](#backend) &nbsp; · &nbsp; [Infrastructure](#infrastructure) &nbsp; · &nbsp; [my projects!!!](#my-projects)
 
 <br />
 
@@ -270,7 +269,7 @@ From data and model training to retrieval, local inference, evaluation and deliv
 
 <br />
 
-## Selected projects
+## my projects!!!
 
 - [**TinyModel Lab**](https://github.com/rezvvent/tinymodel-lab) — Model profiling, ONNX export and inference benchmarks.
 - [**Salary ML**](https://github.com/rezvvent/prod-hackathon-salary-ml) — CatBoost salary prediction with MLflow and FastAPI.
@@ -283,7 +282,5 @@ From data and model training to retrieval, local inference, evaluation and deliv
 - [**PickOne**](https://github.com/rezvvent/pickone) — Shareable real-time polls.
 
 <br />
-
-## Let’s build
 
 <img src="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake.gif?theme=ice-blue-dark" width="100%" alt="Animated GitHub contribution snake in the profile’s dark blue palette" />
