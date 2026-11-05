@@ -1,156 +1,315 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile-hero-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/profile-hero-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg" />
-  <img src="./assets/profile-hero-light.svg" width="100%" alt="REZVENT — ML / AI Engineer. From experiments to dependable systems." />
+  <source media="(max-width: 600px)" srcset="./assets/atlas-hero-mobile.svg" />
+  <img src="./assets/atlas-hero.svg" width="100%" alt="REZVENT — machine learning and software engineering" />
 </picture>
 
-<br />
+# ML & AI engineer
 
-<p align="center">
-  <strong>Useful models. Reliable systems.</strong><br />
-  I build ML tooling, inference pipelines and AI products —<br />
-  with Python and Go behind the systems that run them.
-</p>
-
-<p align="center">
-  <a href="https://t.me/rezvent"><img src="https://img.shields.io/badge/Telegram-@rezvent-1c251c?style=flat-square&amp;logo=telegram&amp;logoColor=ccff7a&amp;labelColor=111710" alt="Telegram @rezvent" /></a>
-  <a href="mailto:brxdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-1c251c?style=flat-square&amp;logo=gmail&amp;logoColor=ccff7a&amp;labelColor=111710" alt="Email brxdeveloper@gmail.com" /></a>
-  <a href="https://github.com/rezvvent?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-1c251c?style=flat-square&amp;logo=github&amp;logoColor=ccff7a&amp;labelColor=111710" alt="Explore my repositories" /></a>
-</p>
-
-<br />
-
-## 01 / Selected engineering
-
-### [TinyModel Lab ↗](https://github.com/rezvvent/tinymodel-lab)
-
-**Understand the model. Measure the trade-offs.** A toolkit for architecture profiling, validated ONNX export and reproducible inference benchmarks. Parameter counts, memory, numerical parity and p50–p99 latency — measured through real execution.
-
-`PyTorch` `torchvision` `ONNX Runtime` `Transformers` `Python` `CLI`
-
-### [Salary ML ↗](https://github.com/rezvvent/prod-hackathon-salary-ml)
-
-**Take tabular ML through the full delivery loop.** A salary-range prediction service with CatBoost quantile regression, feature engineering, grouped validation, MLflow tracking, ONNX export and a FastAPI serving layer.
-
-`CatBoost` `scikit-learn` `MLflow` `ONNX` `FastAPI` `Prometheus` `Docker`
-
-### [StrideLab ↗](https://github.com/rezvvent/StrideLab)
-
-**Watch learning emerge from a feedback loop.** A neural controller evolves a walking policy in real 2D physics. Parallel evaluation, seeded experiments and fixed validation starts keep progress visible and comparisons meaningful.
-
-`Neuroevolution` `Neural networks` `Planck.js` `Web Workers` `TypeScript`
-
-### [AI Clipboard ↗](https://github.com/rezvvent/ai-clipboard)
-
-**Make AI useful inside a daily workflow.** A native macOS app with server-side Gemini search, contextual transformations, encrypted synchronization and a FastAPI / PostgreSQL backend.
-
-`Gemini API` `LLM applications` `SwiftUI` `FastAPI` `PostgreSQL`
-
-<details>
-<summary><strong>More systems behind the models</strong></summary>
-
-<br />
-
-| Project | Engineering focus |
-| :--- | :--- |
-| [**ShortLab**](https://github.com/rezvvent/url-shortener-analytics) | Go redirects, Kafka event streams, Redis and live click analytics. |
-| [**CodeArena**](https://github.com/rezvvent/codearena) | Isolated code execution, asynchronous judging and live verdicts. |
-| [**ScamShield**](https://github.com/rezvvent/ScamShield) | Explainable website risk signals, FastAPI and SSRF protection. |
-| [**PocketDeck**](https://github.com/rezvvent/PocketDeck) | Raspberry Pi operations, Docker health and ESP32 messaging. |
-| [**PickOne**](https://github.com/rezvvent/pickone) | Real-time polls, shareable rooms and a lightweight web experience. |
-
-</details>
-
-<br />
-
-## 02 / Engineering toolkit
+ML systems in Python and Go. Interfaces in React and TypeScript.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111710?style=for-the-badge&amp;logo=python&amp;logoColor=ccff7a" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-111710?style=for-the-badge&amp;logo=pytorch&amp;logoColor=ccff7a" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging_Face-111710?style=for-the-badge&amp;logo=huggingface&amp;logoColor=ccff7a" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/ONNX-111710?style=for-the-badge&amp;logo=onnx&amp;logoColor=ccff7a" alt="ONNX" />
-  <img src="https://img.shields.io/badge/MLflow-111710?style=for-the-badge&amp;logo=mlflow&amp;logoColor=ccff7a" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Go-111710?style=for-the-badge&amp;logo=go&amp;logoColor=ccff7a" alt="Go" />
+  <a href="https://t.me/rezvent"><img src="./assets/contact-telegram.svg" width="144" height="44" alt="Message on Telegram" /></a>
+  &nbsp;&nbsp; <a href="mailto:brxdeveloper@gmail.com">Email</a>
+  &nbsp;&nbsp; Discord:&nbsp;<strong>@rezvvent</strong>
 </p>
 
-<!-- The main toolkit reflects public project dependencies and the existing profile. -->
-
-| Layer | Technologies & methods |
-| :--- | :--- |
-| **Languages** | Python · Go · SQL · TypeScript · Bash · Swift |
-| **Deep learning** | PyTorch · torchvision · Hugging Face Transformers · neural architectures · vision models |
-| **Tabular ML** | scikit-learn · CatBoost · LightGBM · quantile regression · feature engineering · TF-IDF |
-| **Data science** | NumPy · pandas · Matplotlib · Seaborn · EDA · data validation |
-| **Experiments** | MLflow · Optuna · baselines · grouped holdouts · reproducible evaluation |
-| **Inference** | ONNX · ONNX Runtime · ONNX Script · CUDA / MPS execution · latency percentiles · throughput · memory profiling |
-| **Applied AI** | Gemini API · OpenAI API · LLM integrations · semantic search · context handling · AI workflows |
-| **Backend** | FastAPI · Pydantic · asyncio · Gin · Fiber · gRPC · REST · WebSockets · Celery |
-| **Data systems** | PostgreSQL · Redis · MongoDB · Kafka · RabbitMQ · Elasticsearch · SQLAlchemy |
-| **Delivery** | Docker · Docker Compose · Linux · NGINX · GitHub Actions · Kubernetes · Terraform |
-| **Reliability** | pytest · Ruff · integration tests · structured logging · Prometheus · Grafana |
-
-<details>
-<summary><strong>Expand the ML / AI research radar — LLMs, retrieval, optimization & MLOps</strong></summary>
+[ML & AI](#ml--ai) &nbsp; · &nbsp; [Frontend](#frontend) &nbsp; · &nbsp; [Backend](#backend) &nbsp; · &nbsp; [Infrastructure](#infrastructure) &nbsp; · &nbsp; [Projects](#selected-projects)
 
 <br />
 
-A wider technology map for experimentation and future projects.
+## ML & AI
 
-| Area | Tools & concepts |
-| :--- | :--- |
-| **LLM adaptation** | PEFT · LoRA · QLoRA · TRL · SFT · preference optimization · dataset curation |
-| **Training at scale** | Accelerate · DeepSpeed · PyTorch DDP / FSDP · mixed precision · gradient checkpointing · distributed training |
-| **Efficient models** | quantization · pruning · knowledge distillation · torch.compile · TensorRT · TensorRT-LLM |
-| **LLM serving** | vLLM · Hugging Face TGI · llama.cpp · Ollama · Triton Inference Server · BentoML |
-| **NLP & embeddings** | Sentence Transformers · tokenizers · text embeddings · cross-encoders · reranking · semantic similarity |
-| **Retrieval & RAG** | LangChain · LlamaIndex · Haystack · FAISS · Qdrant · pgvector · Milvus · hybrid search · chunking |
-| **Agents & orchestration** | LangGraph · Model Context Protocol · tool calling · structured outputs · workflow state · human review |
-| **Evaluation** | Ragas · DeepEval · lm-evaluation-harness · retrieval metrics · regression datasets · error analysis |
-| **Data systems** | Polars · PyArrow · DuckDB · Hugging Face Datasets · DVC · Great Expectations |
-| **ML platforms** | Ray · Airflow · Prefect · Kubeflow · model registries · dataset versioning · reproducible pipelines |
-| **AI observability** | Langfuse · Arize Phoenix · Evidently · OpenTelemetry · drift detection · cost / latency tracing |
-| **Vision & multimodal** | OpenCV · timm · Albumentations · Diffusers · image embeddings · OCR · vision-language models |
+From data and model training to retrieval, local inference, evaluation and delivery.
+
+### Data & scientific computing
+
+<p>
+  <img src="./assets/stack/python.svg" width="109" height="44" alt="Python" title="Python" />
+  <img src="./assets/stack/numpy.svg" width="111" height="44" alt="NumPy" title="NumPy" />
+  <img src="./assets/stack/pandas.svg" width="112" height="44" alt="pandas" title="pandas" />
+  <img src="./assets/stack/scipy.svg" width="100" height="44" alt="SciPy" title="SciPy" />
+  <img src="./assets/stack/polars.svg" width="105" height="44" alt="Polars" title="Polars" />
+  <img src="./assets/stack/pyarrow.svg" width="121" height="44" alt="PyArrow" title="PyArrow" />
+  <img src="./assets/stack/jupyter.svg" width="114" height="44" alt="Jupyter" title="Jupyter" />
+  <img src="./assets/stack/matplotlib.svg" width="128" height="44" alt="Matplotlib" title="Matplotlib" />
+  <img src="./assets/stack/seaborn.svg" width="119" height="44" alt="Seaborn" title="Seaborn" />
+  <img src="./assets/stack/duckdb.svg" width="116" height="44" alt="DuckDB" title="DuckDB" />
+</p>
+
+### Modeling & optimization
+
+<p>
+  <img src="./assets/stack/pytorch.svg" width="119" height="44" alt="PyTorch" title="PyTorch" />
+  <img src="./assets/stack/tensorflow.svg" width="141" height="44" alt="TensorFlow" title="TensorFlow" />
+  <img src="./assets/stack/keras.svg" width="102" height="44" alt="Keras" title="Keras" />
+  <img src="./assets/stack/jax.svg" width="91" height="44" alt="JAX" title="JAX" />
+  <img src="./assets/stack/scikit-learn.svg" width="137" height="44" alt="scikit-learn" title="scikit-learn" />
+  <img src="./assets/stack/xgboost.svg" width="120" height="44" alt="XGBoost" title="XGBoost" />
+  <img src="./assets/stack/lightgbm.svg" width="127" height="44" alt="LightGBM" title="LightGBM" />
+  <img src="./assets/stack/catboost.svg" width="123" height="44" alt="CatBoost" title="CatBoost" />
+  <img src="./assets/stack/optuna.svg" width="112" height="44" alt="Optuna" title="Optuna" />
+</p>
+
+### Hugging Face ecosystem
+
+<p>
+  <img src="./assets/stack/hugging-face.svg" width="153" height="44" alt="Hugging Face" title="Hugging Face" />
+  <img src="./assets/stack/transformers.svg" width="152" height="44" alt="Transformers" title="Transformers" />
+  <img src="./assets/stack/datasets.svg" width="122" height="44" alt="Datasets" title="Datasets" />
+  <img src="./assets/stack/tokenizers.svg" width="136" height="44" alt="Tokenizers" title="Tokenizers" />
+  <img src="./assets/stack/sentence-transformers.svg" width="216" height="44" alt="Sentence Transformers" title="Sentence Transformers" />
+  <img src="./assets/stack/accelerate.svg" width="135" height="44" alt="Accelerate" title="Accelerate" />
+  <img src="./assets/stack/peft.svg" width="98" height="44" alt="PEFT" title="PEFT" />
+  <img src="./assets/stack/trl.svg" width="90" height="44" alt="TRL" title="TRL" />
+  <img src="./assets/stack/diffusers.svg" width="122" height="44" alt="Diffusers" title="Diffusers" />
+  <img src="./assets/stack/timm.svg" width="97" height="44" alt="timm" title="timm" />
+</p>
+
+### Fine-tuning & training
+
+<p>
+  <img src="./assets/stack/lora.svg" width="99" height="44" alt="LoRA" title="LoRA" />
+  <img src="./assets/stack/qlora.svg" width="109" height="44" alt="QLoRA" title="QLoRA" />
+  <img src="./assets/stack/sft.svg" width="90" height="44" alt="SFT" title="SFT" />
+  <img src="./assets/stack/dpo.svg" width="93" height="44" alt="DPO" title="DPO" />
+  <img src="./assets/stack/distillation.svg" width="131" height="44" alt="Distillation" title="Distillation" />
+  <img src="./assets/stack/bitsandbytes.svg" width="147" height="44" alt="bitsandbytes" title="bitsandbytes" />
+  <img src="./assets/stack/deepspeed.svg" width="140" height="44" alt="DeepSpeed" title="DeepSpeed" />
+  <img src="./assets/stack/fsdp-ddp.svg" width="138" height="44" alt="FSDP / DDP" title="FSDP / DDP" />
+  <img src="./assets/stack/mixed-precision.svg" width="166" height="44" alt="Mixed precision" title="Mixed precision" />
+</p>
+
+### Inference & local models
+
+<p>
+  <img src="./assets/stack/ollama.svg" width="110" height="44" alt="Ollama" title="Ollama" />
+  <img src="./assets/stack/llama-cpp.svg" width="127" height="44" alt="llama.cpp" title="llama.cpp" />
+  <img src="./assets/stack/vllm.svg" width="99" height="44" alt="vLLM" title="vLLM" />
+  <img src="./assets/stack/onnx.svg" width="104" height="44" alt="ONNX" title="ONNX" />
+  <img src="./assets/stack/onnx-runtime.svg" width="159" height="44" alt="ONNX Runtime" title="ONNX Runtime" />
+  <img src="./assets/stack/tensorrt-llm.svg" width="161" height="44" alt="TensorRT-LLM" title="TensorRT-LLM" />
+  <img src="./assets/stack/triton-inference-server.svg" width="212" height="44" alt="Triton Inference Server" title="Triton Inference Server" />
+  <img src="./assets/stack/bentoml.svg" width="122" height="44" alt="BentoML" title="BentoML" />
+  <img src="./assets/stack/gguf.svg" width="102" height="44" alt="GGUF" title="GGUF" />
+  <img src="./assets/stack/cuda.svg" width="103" height="44" alt="CUDA" title="CUDA" />
+</p>
+
+### Vector databases & retrieval
+
+<p>
+  <img src="./assets/stack/qdrant.svg" width="109" height="44" alt="Qdrant" title="Qdrant" />
+  <img src="./assets/stack/pgvector.svg" width="122" height="44" alt="pgvector" title="pgvector" />
+  <img src="./assets/stack/faiss.svg" width="103" height="44" alt="FAISS" title="FAISS" />
+  <img src="./assets/stack/milvus.svg" width="106" height="44" alt="Milvus" title="Milvus" />
+  <img src="./assets/stack/weaviate.svg" width="127" height="44" alt="Weaviate" title="Weaviate" />
+  <img src="./assets/stack/chroma.svg" width="116" height="44" alt="Chroma" title="Chroma" />
+  <img src="./assets/stack/pinecone.svg" width="124" height="44" alt="Pinecone" title="Pinecone" />
+  <img src="./assets/stack/elasticsearch.svg" width="152" height="44" alt="Elasticsearch" title="Elasticsearch" />
+  <img src="./assets/stack/rag.svg" width="93" height="44" alt="RAG" title="RAG" />
+  <img src="./assets/stack/hybrid-search.svg" width="154" height="44" alt="Hybrid search" title="Hybrid search" />
+  <img src="./assets/stack/reranking.svg" width="130" height="44" alt="Reranking" title="Reranking" />
+</p>
+
+### Agents & orchestration
+
+<p>
+  <img src="./assets/stack/langchain.svg" width="134" height="44" alt="LangChain" title="LangChain" />
+  <img src="./assets/stack/langgraph.svg" width="136" height="44" alt="LangGraph" title="LangGraph" />
+  <img src="./assets/stack/llamaindex.svg" width="139" height="44" alt="LlamaIndex" title="LlamaIndex" />
+  <img src="./assets/stack/haystack.svg" width="125" height="44" alt="Haystack" title="Haystack" />
+  <img src="./assets/stack/dspy.svg" width="99" height="44" alt="DSPy" title="DSPy" />
+  <img src="./assets/stack/mcp.svg" width="95" height="44" alt="MCP" title="MCP" />
+  <img src="./assets/stack/pydanticai.svg" width="134" height="44" alt="PydanticAI" title="PydanticAI" />
+  <img src="./assets/stack/instructor.svg" width="127" height="44" alt="Instructor" title="Instructor" />
+  <img src="./assets/stack/tool-calling.svg" width="137" height="44" alt="Tool calling" title="Tool calling" />
+  <img src="./assets/stack/structured-outputs.svg" width="184" height="44" alt="Structured outputs" title="Structured outputs" />
+</p>
+
+### Model APIs & open weights
+
+<p>
+  <img src="./assets/stack/openai.svg" width="113" height="44" alt="OpenAI" title="OpenAI" />
+  <img src="./assets/stack/anthropic.svg" width="127" height="44" alt="Anthropic" title="Anthropic" />
+  <img src="./assets/stack/gemini.svg" width="109" height="44" alt="Gemini" title="Gemini" />
+  <img src="./assets/stack/llama.svg" width="104" height="44" alt="Llama" title="Llama" />
+  <img src="./assets/stack/mistral.svg" width="108" height="44" alt="Mistral" title="Mistral" />
+  <img src="./assets/stack/qwen.svg" width="103" height="44" alt="Qwen" title="Qwen" />
+  <img src="./assets/stack/deepseek.svg" width="131" height="44" alt="DeepSeek" title="DeepSeek" />
+</p>
+
+### Vision & multimodal
+
+<p>
+  <img src="./assets/stack/opencv.svg" width="119" height="44" alt="OpenCV" title="OpenCV" />
+  <img src="./assets/stack/torchvision.svg" width="136" height="44" alt="torchvision" title="torchvision" />
+  <img src="./assets/stack/albumentations.svg" width="166" height="44" alt="Albumentations" title="Albumentations" />
+  <img src="./assets/stack/yolo.svg" width="102" height="44" alt="YOLO" title="YOLO" />
+  <img src="./assets/stack/ocr.svg" width="93" height="44" alt="OCR" title="OCR" />
+  <img src="./assets/stack/image-embeddings.svg" width="187" height="44" alt="Image embeddings" title="Image embeddings" />
+</p>
+
+### MLOps & evaluation
+
+<p>
+  <img src="./assets/stack/mlflow.svg" width="111" height="44" alt="MLflow" title="MLflow" />
+  <img src="./assets/stack/weights-biases.svg" width="178" height="44" alt="Weights &amp; Biases" title="Weights &amp; Biases" />
+  <img src="./assets/stack/dvc.svg" width="94" height="44" alt="DVC" title="DVC" />
+  <img src="./assets/stack/ray.svg" width="89" height="44" alt="Ray" title="Ray" />
+  <img src="./assets/stack/airflow.svg" width="110" height="44" alt="Airflow" title="Airflow" />
+  <img src="./assets/stack/prefect.svg" width="111" height="44" alt="Prefect" title="Prefect" />
+  <img src="./assets/stack/kubeflow.svg" width="125" height="44" alt="Kubeflow" title="Kubeflow" />
+  <img src="./assets/stack/ragas.svg" width="105" height="44" alt="Ragas" title="Ragas" />
+  <img src="./assets/stack/deepeval.svg" width="126" height="44" alt="DeepEval" title="DeepEval" />
+  <img src="./assets/stack/evidently.svg" width="123" height="44" alt="Evidently" title="Evidently" />
+  <img src="./assets/stack/langfuse.svg" width="124" height="44" alt="Langfuse" title="Langfuse" />
+  <img src="./assets/stack/phoenix.svg" width="116" height="44" alt="Phoenix" title="Phoenix" />
+  <img src="./assets/stack/opentelemetry.svg" width="165" height="44" alt="OpenTelemetry" title="OpenTelemetry" />
+</p>
+
+<br />
+
+## Frontend
+
+### Languages & interfaces
+
+<p>
+  <img src="./assets/stack/javascript.svg" width="133" height="44" alt="JavaScript" title="JavaScript" />
+  <img src="./assets/stack/typescript.svg" width="135" height="44" alt="TypeScript" title="TypeScript" />
+  <img src="./assets/stack/html5.svg" width="111" height="44" alt="HTML5" title="HTML5" />
+  <img src="./assets/stack/css3.svg" width="99" height="44" alt="CSS3" title="CSS3" />
+  <img src="./assets/stack/react.svg" width="102" height="44" alt="React" title="React" />
+  <img src="./assets/stack/next-js.svg" width="108" height="44" alt="Next.js" title="Next.js" />
+  <img src="./assets/stack/vite.svg" width="90" height="44" alt="Vite" title="Vite" />
+  <img src="./assets/stack/tailwind-css.svg" width="148" height="44" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="./assets/stack/sass.svg" width="96" height="44" alt="Sass" title="Sass" />
+  <img src="./assets/stack/framer-motion.svg" width="159" height="44" alt="Framer Motion" title="Framer Motion" />
+  <img src="./assets/stack/figma.svg" width="104" height="44" alt="Figma" title="Figma" />
+</p>
+
+### State, forms & quality
+
+<p>
+  <img src="./assets/stack/redux-toolkit.svg" width="151" height="44" alt="Redux Toolkit" title="Redux Toolkit" />
+  <img src="./assets/stack/zustand.svg" width="117" height="44" alt="Zustand" title="Zustand" />
+  <img src="./assets/stack/tanstack-query.svg" width="168" height="44" alt="TanStack Query" title="TanStack Query" />
+  <img src="./assets/stack/react-hook-form.svg" width="174" height="44" alt="React Hook Form" title="React Hook Form" />
+  <img src="./assets/stack/zod.svg" width="89" height="44" alt="Zod" title="Zod" />
+  <img src="./assets/stack/storybook.svg" width="130" height="44" alt="Storybook" title="Storybook" />
+  <img src="./assets/stack/vitest.svg" width="102" height="44" alt="Vitest" title="Vitest" />
+  <img src="./assets/stack/jest.svg" width="92" height="44" alt="Jest" title="Jest" />
+  <img src="./assets/stack/testing-library.svg" width="161" height="44" alt="Testing Library" title="Testing Library" />
+  <img src="./assets/stack/playwright.svg" width="133" height="44" alt="Playwright" title="Playwright" />
+  <img src="./assets/stack/eslint.svg" width="105" height="44" alt="ESLint" title="ESLint" />
+  <img src="./assets/stack/prettier.svg" width="112" height="44" alt="Prettier" title="Prettier" />
+</p>
+
+<br />
+
+## Backend
+
+### Languages, frameworks & APIs
+
+<p>
+  <img src="./assets/stack/go.svg" width="82" height="44" alt="Go" title="Go" />
+  <img src="./assets/stack/python.svg" width="109" height="44" alt="Python" title="Python" />
+  <img src="./assets/stack/django.svg" width="110" height="44" alt="Django" title="Django" />
+  <img src="./assets/stack/django-rest.svg" width="147" height="44" alt="Django REST" title="Django REST" />
+  <img src="./assets/stack/fastapi.svg" width="114" height="44" alt="FastAPI" title="FastAPI" />
+  <img src="./assets/stack/flask.svg" width="99" height="44" alt="Flask" title="Flask" />
+  <img src="./assets/stack/gin.svg" width="86" height="44" alt="Gin" title="Gin" />
+  <img src="./assets/stack/fiber.svg" width="97" height="44" alt="Fiber" title="Fiber" />
+  <img src="./assets/stack/node-js.svg" width="112" height="44" alt="Node.js" title="Node.js" />
+  <img src="./assets/stack/express.svg" width="116" height="44" alt="Express" title="Express" />
+  <img src="./assets/stack/pydantic.svg" width="120" height="44" alt="Pydantic" title="Pydantic" />
+  <img src="./assets/stack/sqlalchemy.svg" width="148" height="44" alt="SQLAlchemy" title="SQLAlchemy" />
+  <img src="./assets/stack/grpc.svg" width="100" height="44" alt="gRPC" title="gRPC" />
+  <img src="./assets/stack/graphql.svg" width="122" height="44" alt="GraphQL" title="GraphQL" />
+  <img src="./assets/stack/rest-apis.svg" width="131" height="44" alt="REST APIs" title="REST APIs" />
+  <img src="./assets/stack/websockets.svg" width="147" height="44" alt="WebSockets" title="WebSockets" />
+</p>
+
+### Databases, caching & messaging
+
+<p>
+  <img src="./assets/stack/sql.svg" width="91" height="44" alt="SQL" title="SQL" />
+  <img src="./assets/stack/postgresql.svg" width="141" height="44" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="./assets/stack/mysql.svg" width="111" height="44" alt="MySQL" title="MySQL" />
+  <img src="./assets/stack/sqlite.svg" width="107" height="44" alt="SQLite" title="SQLite" />
+  <img src="./assets/stack/redis.svg" width="100" height="44" alt="Redis" title="Redis" />
+  <img src="./assets/stack/mongodb.svg" width="128" height="44" alt="MongoDB" title="MongoDB" />
+  <img src="./assets/stack/kafka.svg" width="101" height="44" alt="Kafka" title="Kafka" />
+  <img src="./assets/stack/rabbitmq.svg" width="128" height="44" alt="RabbitMQ" title="RabbitMQ" />
+  <img src="./assets/stack/celery.svg" width="106" height="44" alt="Celery" title="Celery" />
+  <img src="./assets/stack/elasticsearch.svg" width="152" height="44" alt="Elasticsearch" title="Elasticsearch" />
+  <img src="./assets/stack/gorm.svg" width="106" height="44" alt="GORM" title="GORM" />
+  <img src="./assets/stack/sqlc.svg" width="91" height="44" alt="sqlc" title="sqlc" />
+</p>
+
+<br />
+
+## Infrastructure
+
+### Delivery & observability
+
+<p>
+  <img src="./assets/stack/docker.svg" width="111" height="44" alt="Docker" title="Docker" />
+  <img src="./assets/stack/compose.svg" width="126" height="44" alt="Compose" title="Compose" />
+  <img src="./assets/stack/kubernetes.svg" width="139" height="44" alt="Kubernetes" title="Kubernetes" />
+  <img src="./assets/stack/terraform.svg" width="130" height="44" alt="Terraform" title="Terraform" />
+  <img src="./assets/stack/linux.svg" width="99" height="44" alt="Linux" title="Linux" />
+  <img src="./assets/stack/bash.svg" width="97" height="44" alt="Bash" title="Bash" />
+  <img src="./assets/stack/git.svg" width="82" height="44" alt="Git" title="Git" />
+  <img src="./assets/stack/github-actions.svg" width="159" height="44" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="./assets/stack/nginx.svg" width="107" height="44" alt="NGINX" title="NGINX" />
+  <img src="./assets/stack/prometheus.svg" width="143" height="44" alt="Prometheus" title="Prometheus" />
+  <img src="./assets/stack/grafana.svg" width="116" height="44" alt="Grafana" title="Grafana" />
+  <img src="./assets/stack/pytest.svg" width="104" height="44" alt="pytest" title="pytest" />
+  <img src="./assets/stack/ruff.svg" width="89" height="44" alt="Ruff" title="Ruff" />
+  <img src="./assets/stack/uv.svg" width="80" height="44" alt="uv" title="uv" />
+</p>
+
+<br />
+
+## Selected projects
+
+### [TinyModel Lab](https://github.com/rezvvent/tinymodel-lab)
+
+PyTorch architecture profiling, ONNX export with numerical parity checks and reproducible inference benchmarks. Compare quality, memory, throughput and p50–p99 latency on the same hardware.
+
+### [Salary ML](https://github.com/rezvvent/prod-hackathon-salary-ml)
+
+CatBoost quantile regression with feature engineering, grouped validation, MLflow experiments, ONNX inference and FastAPI serving.
+
+### [StrideLab](https://github.com/rezvvent/StrideLab)
+
+A neural controller learns to walk in real 2D physics. Neuroevolution, parallel Web Workers and fixed validation starts make the learning process visible.
+
+<a href="https://github.com/rezvvent/StrideLab"><img src="./assets/projects/stridelab.webp" width="100%" alt="StrideLab: live neural controller training, physics simulation and evaluation dashboard" /></a>
+
+### Systems around the models
+
+<p>
+  <a href="https://github.com/rezvvent/codearena"><img src="./assets/projects/codearena.webp" width="49%" alt="CodeArena: programming workspace with an isolated judge and live verdicts" /></a>
+  <a href="https://github.com/rezvvent/url-shortener-analytics"><img src="./assets/projects/shortlab.webp" width="49%" alt="ShortLab: real-time click analytics, traffic charts and event streams" /></a>
+</p>
+
+<a href="https://github.com/rezvvent/ScamShield"><img src="./assets/projects/scamshield.webp" width="100%" alt="ScamShield: website risk report with explainable evidence and scoring" /></a>
+
+[**CodeArena**](https://github.com/rezvvent/codearena) — isolated judging and live verdicts.<br />
+[**ShortLab**](https://github.com/rezvvent/url-shortener-analytics) — Go redirects, Kafka events and real-time analytics.<br />
+[**ScamShield**](https://github.com/rezvvent/ScamShield) — explainable website risk analysis.
+
+<details>
+<summary><strong>More projects</strong></summary>
+
+- [**AI Clipboard**](https://github.com/rezvvent/ai-clipboard): a native macOS app with Gemini search, AI actions and encrypted server synchronization.
+- [**PocketDeck**](https://github.com/rezvvent/PocketDeck): Raspberry Pi operations, Docker health and ESP32 messaging.
+- [**PickOne**](https://github.com/rezvvent/pickone): shareable real-time polls.
 
 </details>
 
 <br />
 
-## 03 / How I approach ML systems
+## Let’s build
 
-| Stage | The questions that matter |
-| :--- | :--- |
-| **Frame** | What is the baseline, the data split and the actual success criterion? |
-| **Experiment** | Can the result be reproduced? Where does the model fail? |
-| **Evaluate** | What changed in quality, latency, memory and throughput? |
-| **Deliver** | Are model inputs validated, artifacts versioned and failures observable? |
-| **Operate** | How do we detect regressions, investigate drift and roll back safely? |
-
-<br />
-
-## 04 / In motion
-
-<a href="https://github.com/rezvvent?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake-dark.svg?theme=ml-lime" />
-    <img src="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake.svg?theme=ml-lime" width="100%" alt="Animated snake following my GitHub contribution history" />
-  </picture>
-</a>
-
-<br />
-
----
-
-<p align="center">
-  <strong>Have a model to ship or a system to make reliable?</strong><br />
-  Let's build something useful.
-</p>
-
-<p align="center">
-  <a href="https://t.me/rezvent"><strong>Telegram ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:brxdeveloper@gmail.com"><strong>Email ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <strong>Discord:</strong> @rezvvent
-</p>
+Have an ML product, an inference pipeline or a backend system in mind? [Message me on Telegram](https://t.me/rezvent) or [send an email](mailto:brxdeveloper@gmail.com).
