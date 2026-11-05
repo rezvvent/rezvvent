@@ -24,7 +24,7 @@ jobs:
           outputs: |
             dist/contribution-snake.svg?color_snake=#3D6A11&color_dots=#EFF2E8,#DCECC5,#B3D88B,#7FAF45,#3D6A11
             dist/contribution-snake-dark.svg?palette=github-dark&color_snake=#CCFF7A&color_dots=#0B0F14,#253A22,#496735,#8DB85A,#CCFF7A
-            dist/contribution-snake.gif?color_snake=#CCFF7A&color_dots=#0B0F14,#253A22,#496735,#8DB85A,#CCFF7A
+            dist/contribution-snake.gif?color_snake=#9BC7FF&color_dots=#0D1117,#1E3046,#315579,#5F8FBD,#9BC7FF
 
       - name: Publish animations to output branch
         uses: crazy-max/ghaction-github-pages@v5

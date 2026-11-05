@@ -5,7 +5,7 @@
 
 # ML & AI engineer
 
-ML systems in Python and Go. Interfaces in React and TypeScript.
+ML ML ML ML!!!!!!
 
 <p>
   <a href="https://t.me/rezvent"><img src="./assets/contact-telegram.svg" width="144" height="44" alt="Message on Telegram" /></a>
@@ -272,44 +272,18 @@ From data and model training to retrieval, local inference, evaluation and deliv
 
 ## Selected projects
 
-### [TinyModel Lab](https://github.com/rezvvent/tinymodel-lab)
-
-PyTorch architecture profiling, ONNX export with numerical parity checks and reproducible inference benchmarks. Compare quality, memory, throughput and p50–p99 latency on the same hardware.
-
-### [Salary ML](https://github.com/rezvvent/prod-hackathon-salary-ml)
-
-CatBoost quantile regression with feature engineering, grouped validation, MLflow experiments, ONNX inference and FastAPI serving.
-
-### [StrideLab](https://github.com/rezvvent/StrideLab)
-
-A neural controller learns to walk in real 2D physics. Neuroevolution, parallel Web Workers and fixed validation starts make the learning process visible.
-
-<a href="https://github.com/rezvvent/StrideLab"><img src="./assets/projects/stridelab.webp" width="100%" alt="StrideLab: live neural controller training, physics simulation and evaluation dashboard" /></a>
-
-### Systems around the models
-
-<p>
-  <a href="https://github.com/rezvvent/codearena"><img src="./assets/projects/codearena.webp" width="49%" alt="CodeArena: programming workspace with an isolated judge and live verdicts" /></a>
-  <a href="https://github.com/rezvvent/url-shortener-analytics"><img src="./assets/projects/shortlab.webp" width="49%" alt="ShortLab: real-time click analytics, traffic charts and event streams" /></a>
-</p>
-
-<a href="https://github.com/rezvvent/ScamShield"><img src="./assets/projects/scamshield.webp" width="100%" alt="ScamShield: website risk report with explainable evidence and scoring" /></a>
-
-[**CodeArena**](https://github.com/rezvvent/codearena) — isolated judging and live verdicts.<br />
-[**ShortLab**](https://github.com/rezvvent/url-shortener-analytics) — Go redirects, Kafka events and real-time analytics.<br />
-[**ScamShield**](https://github.com/rezvvent/ScamShield) — explainable website risk analysis.
-
-<details>
-<summary><strong>More projects</strong></summary>
-
-- [**AI Clipboard**](https://github.com/rezvvent/ai-clipboard): a native macOS app with Gemini search, AI actions and encrypted server synchronization.
-- [**PocketDeck**](https://github.com/rezvvent/PocketDeck): Raspberry Pi operations, Docker health and ESP32 messaging.
-- [**PickOne**](https://github.com/rezvvent/pickone): shareable real-time polls.
-
-</details>
+- [**TinyModel Lab**](https://github.com/rezvvent/tinymodel-lab) — Model profiling, ONNX export and inference benchmarks.
+- [**Salary ML**](https://github.com/rezvvent/prod-hackathon-salary-ml) — CatBoost salary prediction with MLflow and FastAPI.
+- [**StrideLab**](https://github.com/rezvvent/StrideLab) — Neural controllers learning to walk through neuroevolution.
+- [**AI Clipboard**](https://github.com/rezvvent/ai-clipboard) — macOS clipboard with Gemini search and encrypted sync.
+- [**CodeArena**](https://github.com/rezvvent/codearena) — Isolated code execution and live judging.
+- [**ShortLab**](https://github.com/rezvvent/url-shortener-analytics) — Go redirects, Kafka events and live analytics.
+- [**ScamShield**](https://github.com/rezvvent/ScamShield) — Website risk analysis with explainable signals.
+- [**PocketDeck**](https://github.com/rezvvent/PocketDeck) — Raspberry Pi, Docker and ESP32 control center.
+- [**PickOne**](https://github.com/rezvvent/pickone) — Shareable real-time polls.
 
 <br />
 
 ## Let’s build
 
-Have an ML product, an inference pipeline or a backend system in mind? [Message me on Telegram](https://t.me/rezvent) or [send an email](mailto:brxdeveloper@gmail.com).
+<img src="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake.gif?theme=ice-blue" width="100%" alt="Animated GitHub contribution snake in the profile’s dark blue palette" />
