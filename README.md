@@ -286,4 +286,4 @@ From data and model training to retrieval, local inference, evaluation and deliv
 
 ## Let’s build
 
-<img src="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake.gif?theme=ice-blue" width="100%" alt="Animated GitHub contribution snake in the profile’s dark blue palette" />
+<img src="https://raw.githubusercontent.com/rezvvent/rezvvent/output/contribution-snake.gif?theme=ice-blue-dark" width="100%" alt="Animated GitHub contribution snake in the profile’s dark blue palette" />
